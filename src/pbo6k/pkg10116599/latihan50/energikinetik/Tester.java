@@ -11,7 +11,7 @@ package pbo6k.pkg10116599.latihan50.energikinetik;
  * Program :
  *
  */
-public class MainProgram {
+public class Tester {
 
     /**
      * @param args the command line arguments

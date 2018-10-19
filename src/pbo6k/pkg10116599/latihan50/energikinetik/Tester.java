@@ -7,8 +7,11 @@ package pbo6k.pkg10116599.latihan50.energikinetik;
 
 /**
  *
- * @author NAMA : Robby Eka Purnama KELAS : PBO6K NIM : 10116599 Deskripsi
- * Program :
+ * @author 
+ * NAMA  : Robby Eka Purnama
+ * KELAS : PBO6K 
+ * NIM   : 10116599 
+ * Deskripsi Program :
  *
  */
 public class Tester {
